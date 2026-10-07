@@ -1,0 +1,37 @@
+======================================================================
+AMAZON REVIEWS ANALYSIS REPORT
+======================================================================
+Generated: 2025-09-14 19:44:50
+Database: amazon.amazon.reviews
+
+ DATASET OVERVIEW:
+   Total Reviews: 694,252
+   Unique Users: 631,986
+   Unique Products: 115,709
+   Average Rating: 3.961/5
+   Total Helpful Votes: 641,610
+   Verified Purchases: 628,456
+   Average Review Length: 174 chars
+   Earliest Review: 2106-02-07 06:28:15
+   Latest Review: 2106-02-07 06:28:15
+
+ RATING INSIGHTS:
+   • 5-star reviews: 60.0% (416,435)
+   • 1-star reviews: 14.5% (100,888)
+   • Avg helpful votes: 0.87 per review
+   • Verified purchases: 90.6% average
+
+ PRODUCT INSIGHTS:
+   • Top product: B007IAE5WY (1952 reviews)
+   • Avg rating of top products: 4.22/5
+   • Most helpful product: B07ZJKVVLW (4309 votes)
+
+👥 USER INSIGHTS:
+   • Most active user: AG73BVBKUOH22USSFJA5ZWL7AKXA (165 reviews)
+   • Avg user rating: 4.30/5
+   • Most helpful user: AF2BLE54TEMGZ546U763ZHZRXC4A (148 votes)
+
+ INSIGHTS:
+   • Time period covered: 1 days with reviews
+   • Average daily reviews: 694252.0
+   • Peak daily reviews: 694252
