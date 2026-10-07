@@ -1,0 +1,38 @@
+# Credentials - NEVER commit these
+.env
+
+# Large dataset files — ignore contents but keep the placeholder
+data/*
+!data/.gitkeep
+*.jsonl
+*.jsonl.gz
+*.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+
+# ClickHouse Docker volumes
+clickhouse_data/
+clickhouse_logs/
+
+# Logs
+*.log
+ingestion.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
